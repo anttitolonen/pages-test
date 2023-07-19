@@ -22,8 +22,8 @@ title: Notes to self
 email: antti.tolonen@iki.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Random notes about data science related things.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/pages-test" # the subpath of your site, e.g. /blog
+url: "https://anttitolonen.github.io"
 github_username:  anttitolonen
 
 # Build settings
@@ -35,7 +35,6 @@ plugins:
 disqus:
     shortname: github-pages-antti-tolonen-test
 
-url: "https://anttitolonen.github.io/pages-test"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
